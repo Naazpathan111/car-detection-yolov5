@@ -8,7 +8,7 @@ YOLOv5-based deep learning model that detects 10 different car brands and flags 
 
 * Detects 10 car brands
 * Unknown vehicle handling using confidence threshold
-* Image upload interface using Gradio
+* Image/Video upload interface using Gradio
 * Real-time object detection
 * Bounding box visualization
 
@@ -63,7 +63,7 @@ python app1.py
 
 ## 📷 Demo
 
-Upload a car image and the model predicts:
+Upload a car image/video and the model predicts:
 
 * car brand
 * confidence score
