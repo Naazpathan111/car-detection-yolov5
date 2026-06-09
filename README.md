@@ -48,7 +48,7 @@ cd car-detection-yolov5
 
 pip install -r requirements.txt
 
-python app.py
+python app1.py
 ```
 
 ---
